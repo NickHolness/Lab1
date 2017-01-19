@@ -11,6 +11,10 @@ public class GitHub {
      */
     public static void main(String[] args) {
        System.out.print("Hello World, my GitHub account name is NickHolness");
+       for (int i = 0; i <= 10; i++)
+       {
+           System.out.println("Hello World");
+       }
     }
     
 }
